@@ -1,0 +1,274 @@
+{
+  "flights": [
+    {
+      "from": "AAD",
+      "to": "MGM",
+      "duration_in_hours": 13,
+      "departure": "16:30",
+      "arrival": "04:03",
+      "price": "2229",
+      "stops": 3
+    },
+    {
+      "from": "HNA",
+      "to": "QGF",
+      "duration_in_hours": 8,
+      "departure": "16:40",
+      "arrival": "18:07",
+      "price": "2229",
+      "stops": 0
+    },
+    {
+      "from": "MLH",
+      "to": "MKG",
+      "duration_in_hours": 15,
+      "departure": "14:53",
+      "arrival": "12:55",
+      "price": "15727",
+      "stops": 2
+    },
+    {
+      "from": "NAN",
+      "to": "NAJ",
+      "duration_in_hours": 6,
+      "departure": "10:31",
+      "arrival": "09:24",
+      "price": "31565",
+      "stops": 2
+    },
+    {
+      "from": "SUV",
+      "to": "NDJ",
+      "duration_in_hours": 11,
+      "departure": "05:49",
+      "arrival": "21:27",
+      "price": "23753",
+      "stops": 2
+    },
+    {
+      "from": "JFK",
+      "to": "NQY",
+      "duration_in_hours": 7,
+      "departure": "12:24",
+      "arrival": "16:49",
+      "price": "34688",
+      "stops": 0
+    },
+    {
+      "from": "MQP",
+      "to": "NSN",
+      "duration_in_hours": 4,
+      "departure": "02:09",
+      "arrival": "23:34",
+      "price": "23126",
+      "stops": 3
+    },
+    {
+      "from": "NTL",
+      "to": "KIJ",
+      "duration_in_hours": 6,
+      "departure": "05:55",
+      "arrival": "15:23",
+      "price": "39805",
+      "stops": 2
+    },
+    {
+      "from": "OME",
+      "to": "NLK",
+      "duration_in_hours": 8,
+      "departure": "21:39",
+      "arrival": "05:32",
+      "price": "39821",
+      "stops": 3
+    },
+    {
+      "from": "YVQ",
+      "to": "OME",
+      "duration_in_hours": 8,
+      "departure": "14:10",
+      "arrival": "06:49",
+      "price": "27695",
+      "stops": 2
+    },
+    {
+      "from": "QND",
+      "to": "OAK",
+      "duration_in_hours": 9,
+      "departure": "00:50",
+      "arrival": "09:56",
+      "price": "12043",
+      "stops": 0
+    },
+    {
+      "from": "PAD",
+      "to": "PTY",
+      "duration_in_hours": 14,
+      "departure": "16:24",
+      "arrival": "00:31",
+      "price": "9803",
+      "stops": 3
+    },
+    {
+      "from": "PTY",
+      "to": "ORY",
+      "duration_in_hours": 5,
+      "departure": "23:03",
+      "arrival": "01:57",
+      "price": "29849",
+      "stops": 2
+    },
+    {
+      "from": "POG",
+      "to": "OPO",
+      "duration_in_hours": 4,
+      "departure": "18:11",
+      "arrival": "13:08",
+      "price": "6554",
+      "stops": 2
+    },
+    {
+      "from": "PVK",
+      "to": "YXS",
+      "duration_in_hours": 2,
+      "departure": "11:07",
+      "arrival": "00:08",
+      "price": "19845",
+      "stops": 0
+    },
+    {
+      "from": "PVD",
+      "to": "PZO",
+      "duration_in_hours": 13,
+      "departure": "10:40",
+      "arrival": "06:13",
+      "price": "35464",
+      "stops": 1
+    },
+    {
+      "from": "PUJ",
+      "to": "YQB",
+      "duration_in_hours": 2,
+      "departure": "09:27",
+      "arrival": "09:02",
+      "price": "28802",
+      "stops": 1
+    },
+    {
+      "from": "FNJ",
+      "to": "UIO",
+      "duration_in_hours": 2,
+      "departure": "17:35",
+      "arrival": "22:04",
+      "price": "33514",
+      "stops": 0
+    },
+    {
+      "from": "UIN",
+      "to": "TAO",
+      "duration_in_hours": 6,
+      "departure": "15:31",
+      "arrival": "04:45",
+      "price": "2817",
+      "stops": 2
+    },
+    {
+      "from": "YVQ",
+      "to": "GOJ",
+      "duration_in_hours": 2,
+      "departure": "18:51",
+      "arrival": "00:07",
+      "price": "33564",
+      "stops": 2
+    },
+    {
+      "from": "NRA",
+      "to": "ISA",
+      "duration_in_hours": 2,
+      "departure": "17:14",
+      "arrival": "07:49",
+      "price": "14649",
+      "stops": 3
+    },
+    {
+      "from": "OMO",
+      "to": "GTN",
+      "duration_in_hours": 6,
+      "departure": "20:50",
+      "arrival": "09:40",
+      "price": "15776",
+      "stops": 2
+    },
+    {
+      "from": "MOW",
+      "to": "MYA",
+      "duration_in_hours": 15,
+      "departure": "10:51",
+      "arrival": "05:49",
+      "price": "18964",
+      "stops": 1
+    },
+    {
+      "from": "MLM",
+      "to": "YMQ",
+      "duration_in_hours": 5,
+      "departure": "22:21",
+      "arrival": "16:28",
+      "price": "30998",
+      "stops": 0
+    },
+    {
+      "from": "TAB",
+      "to": "SKG",
+      "duration_in_hours": 9,
+      "departure": "16:30",
+      "arrival": "19:43",
+      "price": "36009",
+      "stops": 3
+    },
+    {
+      "from": "THE",
+      "to": "TFS",
+      "duration_in_hours": 2,
+      "departure": "20:52",
+      "arrival": "01:00",
+      "price": "5164",
+      "stops": 2
+    },
+    {
+      "from": "TCU",
+      "to": "TER",
+      "duration_in_hours": 13,
+      "departure": "20:31",
+      "arrival": "09:07",
+      "price": "20850",
+      "stops": 2
+    },
+    {
+      "from": "TKU",
+      "to": "TVC",
+      "duration_in_hours": 7,
+      "departure": "02:35",
+      "arrival": "21:17",
+      "price": "15416",
+      "stops": 0
+    },
+    {
+      "from": "TSV",
+      "to": "YOP",
+      "duration_in_hours": 10,
+      "departure": "17:33",
+      "arrival": "15:15",
+      "price": "20361",
+      "stops": 2
+    },
+    {
+      "from": "RYK",
+      "to": "RBA",
+      "duration_in_hours": 9,
+      "departure": "16:55",
+      "arrival": "21:00",
+      "price": "24175",
+      "stops": 1
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tours"
+        android:enabled="true"
+        android:icon="@drawable/tours_icon"
+        android:title="Tours"  />
+    <item
+        android:id="@+id/flights"
+        android:enabled="true"
+        android:icon="@drawable/flight_icon"
+        android:title="Flights" />
+    <item
+        android:id="@+id/cars"
+        android:enabled="true"
+        android:icon="@drawable/car_icon"
+        android:title="Cars" />
+</menu>
