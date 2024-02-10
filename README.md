@@ -1,4 +1,4 @@
-#Fast Travel
+# Fast Travel
 Fast Travel is an Android application developed in Kotlin that simplifies travel planning by providing a comprehensive platform for exploring and booking flights, tours, car rentals, and hotels. With a user-friendly interface and a range of features, this app aims to enhance the travel experience for users.
 
 #Key Features
