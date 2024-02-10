@@ -22,18 +22,23 @@ User Profile and History: Maintain a personalized profile, track your travel his
 Clone the Repository:
 
 bash
-Copy code
+
 git clone https://github.com/vakiliali79/Fast-Travel-Android-App.git
+
 Open in Android Studio:
+
 Open the project in Android Studio to explore, build, and modify the application.
 
 Customize and Build:
+
 Tailor the app to your needs or make enhancements. Build the project using Android Studio.
 
 Run on Emulator or Device:
+
 Test the app by running it on an emulator or a physical Android device.
 
 Contribute:
+
 If you'd like to contribute to the project, feel free to open issues, submit pull requests, or provide feedback.
 
 # License
