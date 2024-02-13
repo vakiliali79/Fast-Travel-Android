@@ -18,6 +18,11 @@ Secure Payments: Make bookings confidently with secure and convenient payment op
 
 User Profile and History: Maintain a personalized profile, track your travel history, and manage your preferences.
 
+## Installation
+
+[Download APK](https://raw.githubusercontent.com/vakiliali79/Fast-Travel-Android/master/Fast-Travel.apk)
+
+
 # How to Use
 Clone the Repository:
 
